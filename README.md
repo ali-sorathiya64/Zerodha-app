@@ -1,5 +1,7 @@
 📈 Zerodha Project
+
 📄 Project Description
+
 The Zerodha Project is a comprehensive stock trading and portfolio management application built using the MERN stack (MongoDB, Express, React, and Node.js).
 
 🚀 Primary Goal: To provide users with a robust and intuitive platform to manage their investments and track real-time stock market data.
